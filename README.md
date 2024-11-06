@@ -23,7 +23,7 @@ This repository is specifically for competitions I have participated in on Kaggl
 1. [Competition 1: Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 2. [Competition 2: House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 3. [Competition 3: Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
-4. [Competition 4: Blood Glucose Level Prediction](#) (https://www.kaggle.com/code/jantine/brist1d-lstm-cnn-lstm-transformer-pytorch)
+4. [Competition 4: Blood Glucose Level Prediction](https://www.kaggle.com/code/jantine/brist1d-lstm-cnn-lstm-transformer-pytorch)
   
 For each competition, I have followed the process of exploratory data analysis (EDA), feature engineering, model building, evaluation, and submission to the competition.
 
