@@ -1,0 +1,54 @@
+# PyTorch (specify version if necessary)
+torch>=2.0.0,<=2.1.0
+
+# JAX (you can specify the version if necessary)
+jax>=0.4.0
+jaxlib>=0.4.0
+
+# Scikit-learn
+scikit-learn>=1.0.0
+
+# NumPy (you can adjust the version if needed)
+numpy>=1.21.0
+
+# pandas for data handling
+pandas>=1.3.0
+
+# Matplotlib and Seaborn for plotting and visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# tqdm for progress bars (useful in loops)
+tqdm>=4.62.0
+
+# LightGBM (optional, if you are using it for boosting)
+lightgbm>=3.3.0
+
+# XGBoost (optional, if you are using it for boosting)
+xgboost>=1.5.0
+
+# Optuna for hyperparameter optimization
+optuna>=2.10.0
+
+# CatBoost (optional, if you are using it for boosting)
+catboost>=1.0.0
+
+# Plotly for interactive visualizations (optional)
+plotly>=5.0.0
+
+# MLflow for tracking experiments (optional)
+mlflow>=1.20.0
+
+# Hydra for configuration management (optional)
+hydra-core>=1.1.0
+
+# TensorFlow (if needed for comparison or other purposes)
+tensorflow>=2.10.0
+
+# Kaggle API client to interact with Kaggle datasets and competitions
+kaggle>=1.5.12
+
+# Other utility libraries
+scipy>=1.7.0
+psutil>=5.8.0
+pyyaml>=6.0
